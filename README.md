@@ -1,5 +1,5 @@
 # Financial Analysis
-Here we are attempting to answer basic business solutions. The model can answer various analytical questions using data science . Kindly refer to the README file for the questions.
+The model can answer various analytical questions using data science . Kindly refer to the README file for the questions.
 
 
 Question 1: What was the best month for sale? How much was earned that month?
